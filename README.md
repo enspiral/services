@@ -1,7 +1,7 @@
 Enspiral Services
 ========
 
-This is a repository for the Enspiral Services wiki
+This is a repository for the [Enspiral Services wiki]('/wiki')
 
 
 
