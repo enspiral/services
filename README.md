@@ -1,15 +1,10 @@
-Enspiral Services
-========
+Please see the wiki here : [**Enspiral Services wiki**](../../wiki)
 
-This is a repository for the [Enspiral Services wiki](../../wiki)
-
+---
 
 
+if you want to edit the wiki offline, you can clone the git repo:
 
-note to devs : 
-
-you can edit offline and create pull requests for github wikis
-the repo can be cloned using 
 ```
 git clone git@github.com:s01us/services.wiki.git
 ```
