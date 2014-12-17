@@ -1,5 +1,5 @@
 [**Enspiral Services wiki**](../../wiki)
 
-[![](images/wiki_thumbail.png)](../../wiki)
+[![](images/wiki_thumbnail.png)](../../wiki)
 
 
